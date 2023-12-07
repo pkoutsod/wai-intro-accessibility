@@ -100,7 +100,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {:/}
 
 -   Όταν θέλετε να μάθετε περισσότερα σχετικά με το πώς διαφορετικές αναπηρίες επηρεάζουν τη χρήση του Ιστού, και να διαβάσετε σενάρια ατόμων με ειδικές ανάγκες για το πως χρησιμοποιούν τον Ιστό, δείτε το [[Πώς οι άνθρωποι με ειδικές ανάγκες χρησιμοποιούν τον Ιστό]](/people-use-web/).
--   Εάν θέλετε περισσότερα παραδείγματα πλεονεκτημάτων για άλλους, με την WCAG να τα υποστηρίζει, δείτε το [[Κοινόχρηστες Εμπειρίες Ιστού: Κοινά Εμπόδια σε Χρήστες Κινητών Συσκευών και σε Άτομα με Ειδικές Ανάγκες]](/standards-guidelines/shared-experiences/) και το αρχειοθετημένο [Η Προσβασιμότητα του Ιστού ωφελεί Άτομα Με και Χωρίς Ειδικές Ανάγκες](https://www.w3.org/WAI/business-case/archive/soc#groups).
+-   Εάν θέλετε περισσότερα παραδείγματα πλεονεκτημάτων για άλλους, δείτε τον πόρο για κινητά [[Κοινόχρηστες Εμπειρίες Ιστού: Κοινά Εμπόδια σε Χρήστες Κινητών Συσκευών και σε Άτομα με Ειδικές Ανάγκες]](/WAI/standards-guidelines/shared-experiences/), <span lang="en">multimedia</span> [Χρησιμοποιείται από Άτομα με και Χωρίς Αναπηρία](/WAI/media/av/users-orgs/#situations), και το αρχειοθετημένο [Η Προσβασιμότητα του Ιστού ωφελεί Άτομα Με και Χωρίς Ειδικές Ανάγκες](https://www.w3.org/WAI/business-case/archive/soc#groups).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -146,7 +146,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 - Περισσότερα για όλες αυτές τις πτυχές της προσβασιμότητας που εργάζονται μαζί βρίσκονται στα [[Βασικά Συστατικά της Προσβασιμότητας του Ιστού]](/fundamentals/components/).
 -   Τα: <span lang="en">Web Content Accessibility Guidelines (WCAG), Authoring Tool Accessibility Guidelines (ATAG), ARIA for Accessible Rich Internet Applications</span> και άλλοι σημαντικοί πόροι - υλικά παρουσιάζονται στην [[Επισκόπηση Πρότυπων Προσβασιμότητας του W3C]](/standards-guidelines/).
-- Για να μάθετε περισσότερα σχετικά με τον τρόπο με τον οποίο το W3C WAI αναπτύσσει υλικό μέσω της πολυμερούς συμμετοχής, της διεθνούς συμμετοχής και του τρόπου με τον οποίο εσείς μπορείτε να συνεισφέρετε, ανατρέξτε στην ενότητα  και τη συμμετοχή στο [[Σχετικά με το WAI]](/about/) και [[Συμμετέχοντας στο WAI]](/get-involved/).
+- Για να μάθετε περισσότερα σχετικά με τον τρόπο με τον οποίο το W3C WAI αναπτύσσει υλικό μέσω της πολυμερούς συμμετοχής, της διεθνούς συμμετοχής και του τρόπου με τον οποίο εσείς μπορείτε να συνεισφέρετε, ανατρέξτε στην ενότητα  και τη συμμετοχή στο [[Σχετικά με το WAI]](/about/) και [[Συμμετέχοντας στο WAI]](/about/participating/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -167,7 +167,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 -   Για μερικές βασικές σκέψεις σχετικά με το σχεδιασμό, την κειμενογράφηση και την ανάπτυξη για την προσβασιμότητα, ανατρέξτε στις [[Συμβουλές για να Ξεκινήσετε]](/tips/).
 -   Όταν είστε έτοιμοι να μάθετε περισσότερα σχετικά με την ανάπτυξη και το σχεδιασμό, πιθανότατα θα χρησιμοποιήσετε πόρους όπως: 
     -   [Πώς ικανοποιείται το WCAG (Γρήγορη Αναφορά)](http://www.w3.org/WAI/WCAG21/quickref/)
-    -   [Μαθήματα Προσβασιμότητας Ιστού](https://www.w3.org/WAI/tutorials/)
+    -   [Μαθήματα Προσβασιμότητας Ιστού](/tutorials/)
 -   Για τη διαχείριση έργων και θέματα οργάνωσης, ανατρέξτε στο:[[Προγραμματισμός και Διαχείριση της Προσβασιμότητας στον Ιστό]](/planning-and-managing/).<br>
     Εάν πρέπει να κάνετε γρήγορες επιδιορθώσεις τώρα, ανατρέξτε στις [[Προσεγγίσεις για Προσωρινές Διορθώσεις]](/planning/interim-repairs/).
 
@@ -202,7 +202,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ![image of logo; HTML markup img alt='Το λογότυπο του Web Accessibility Initiative'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Οι εικόνες θα πρέπει να περιλαμβάνουν [εναλλακτικό ισοδύναμο κείμενο](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv.html)* (<span lang="en">alt</span> κείμενο) στο <span lang="en">markup</span>/κώδικα.
+Οι εικόνες θα πρέπει να περιλαμβάνουν [εναλλακτικό ισοδύναμο κείμενο](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (<span lang="en">alt</span> κείμενο) στο <span lang="en">markup</span>/κώδικα.
 
 Εάν δεν παρέχεται <span lang="en">alt</span> κείμενο για εικόνες, οι πληροφορίες της εικόνας δεν είναι προσβάσιμες, για παράδειγμα, σε άτομα που δεν μπορούν να δουν και να χρησιμοποιήσουν έναν αναγνώστη οθόνης που διαβάζει δυνατά τις πληροφορίες σε μια ιστοσελίδα, συμπεριλαμβανομένου του <span lang="en">alt</span> κειμένου για την εικόνα.
 
@@ -240,4 +240,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 (http://www.w3.org/WAI/Resources/) list.
 Το W3C WAI παρέχει ένα ευρύ φάσμα πόρων για διάφορες πτυχές των [προτύπων ](/standards-guidelines/), [εκπαίδευση](https://www.w3.org/WAI/train), [<span lang="en">testing</span>/αξιολόγηση](/test-evaluate/), [διαχείριση έργων και πολιτική](https://www.w3.org/WAI/managing).
-Σας ενθαρρύνουμε να εξερευνήσετε αυτόν τον ιστότοπο ή να αναζητήσετε τους[Πόρους του WAI](http://www.w3.org/WAI/Resources/).
+Σας ενθαρρύνουμε να εξερευνήσετε αυτόν τον ιστότοπο ή να αναζητήσετε τους[Πόρους του WAI](/resources/).
+
+**[[Digital Accessibility Foundations - Free Online Course]](/courses/foundations-course/)** provides the foundation you need to make your digital technology accessible.
