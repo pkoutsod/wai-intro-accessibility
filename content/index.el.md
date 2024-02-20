@@ -1,22 +1,22 @@
-﻿---
+---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: Εισαγωγή στην Προσβασιμότητα του Ιστού (Web Accessibility)   # Do not translate "title:". Do translate the text after "title:".
 lang: el   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-09-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
+translators: #Add one -name: line for every translator
 - name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
   link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
 permalink: /fundamentals/accessibility-intro/el   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /fundamentals/accessibility-intro/   # Do not change this
 layout: default
 github:
-  repository: w3c/wai-intro-accessibility
-  branch: gh-pages
-  path: index.el.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+    repository: w3c/wai-intro-accessibility
+    branch: gh-pages
+    path: index.el.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 5 Ιουνίου 2019. Πρώτη δημοσίευση Φεβρουάριος 2005.</p>
-  <p><strong>Συντάκτης:</strong> <span lang="en"><a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a></span>.</p>
-  <p>Ανάπτυξη από την Ομάδα Εργασίας Επιμόρφωσης και Διάχυσης (<span lang="en"><a href="http://www.w3.org/WAI/EO/">EOWG</a></span>).</p>
+    <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 5 Ιουνίου 2019. Πρώτη δημοσίευση Φεβρουάριος 2005.</p>
+    <p><strong>Συντάκτης:</strong> <span lang="en"><a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a></span>.</p>
+    <p>Ανάπτυξη από την Ομάδα Εργασίας Επιμόρφωσης και Διάχυσης (<span lang="en"><a href="http://www.w3.org/WAI/EO/">EOWG</a></span>).</p>
 # Read Translations Notes at https://github.com/w3c/wai-intro-accessibility/blob/gh-pages/README.md
 # end of translation instructions
 ---
@@ -93,7 +93,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 - άτομα που χρησιμοποιούν αργή σύνδεση στο <span lang="en">Internet</span> ή που έχουν περιορισμένο ή ακριβό εύρος ζώνης (<span lang="en">bandwidth</span>)
 
 Για ένα βίντεο 7 λεπτών με παραδείγματα για το πώς η προσβασιμότητα είναι απαραίτητη για τα άτομα με αναπηρία και χρήσιμη για όλους σε διάφορες καταστάσεις, βλ.<br>
-{% include video-link.html title="Βίντεο Προοπτικών της Προσβασιμότητας Ιστού <em>(<span lang="en">YouTube</span>)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+{% include video-link.html title="Βίντεο Προοπτικών της Προσβασιμότητας Ιστού <em>(<span lang='en'>YouTube</span>)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Περισσότερες Πληροφορίες για το Τι Είναι Προσβασιμότητα" class="simple aside" %}
@@ -166,7 +166,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 -   Για μια εισαγωγή στις απαιτήσεις προσβασιμότητας και στα διεθνή πρότυπα, ανατρέξτε στις [[Αρχές Προσβασιμότητας]](/fundamentals/accessibility-principles/).
 -   Για να κατανοήσετε κάποιους κοινούς φραγμούς προσβασιμότητας από την άποψη των δοκιμών (<span lang="en">testing</span>, ανατρέξτε στο: [[Εύκολοι Έλεγχοι - Μια Πρώτη Ματιά]](/test-evaluate/preliminary/).
 -   Για μερικές βασικές σκέψεις σχετικά με το σχεδιασμό, την κειμενογράφηση και την ανάπτυξη για την προσβασιμότητα, ανατρέξτε στις [[Συμβουλές για να Ξεκινήσετε]](/tips/).
--   Όταν είστε έτοιμοι να μάθετε περισσότερα σχετικά με την ανάπτυξη και το σχεδιασμό, πιθανότατα θα χρησιμοποιήσετε πόρους όπως: 
+-   Όταν είστε έτοιμοι να μάθετε περισσότερα σχετικά με την ανάπτυξη και το σχεδιασμό, πιθανότατα θα χρησιμοποιήσετε πόρους όπως:
     -   [Πώς ικανοποιείται το WCAG (Γρήγορη Αναφορά)](http://www.w3.org/WAI/WCAG21/quickref/)
     -   [Μαθήματα Προσβασιμότητας Ιστού](/tutorials/)
 -   Για τη διαχείριση έργων και θέματα οργάνωσης, ανατρέξτε στο:[[Προγραμματισμός και Διαχείριση της Προσβασιμότητας στον Ιστό]](/planning-and-managing/).<br>
@@ -175,7 +175,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-	
+
 ## Αξιολογώντας την Προσβασιμότητα {#evaluate}
 
 Κατά την ανάπτυξη ή τον επανασχεδιασμό ενός ιστότοπου, αξιολογείτε την προσβασιμότητα νωρίς και καθ' όλη τη διάρκεια της διαδικασίας ανάπτυξης, για να εντοπίσετε νωρίς τα προβλήματα προσβασιμότητας, όταν είναι ευκολότερο να τα αντιμετωπίσετε. Απλά βήματα, όπως η αλλαγή ρυθμίσεων σε ένα πρόγραμμα περιήγησης (<span lang="en">browser</span>, μπορούν να σας βοηθήσουν να αξιολογήσετε ορισμένες πτυχές της προσβασιμότητας. Η εκτεταμένη αξιολόγηση για να διαπιστωθεί αν ένας ιστότοπος πληροί όλες τις οδηγίες προσβασιμότητας απαιτεί περισσότερη προσπάθεια.
@@ -225,7 +225,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Περισσότερα Παραδείγματα" class="simple aside" %}
-{:/} 
+{:/}
 
 -   [[Συμβουλές για να Ξεκινήσετε]](/tips/)
 -   [[Εύκολοι Έλεγχοι - Μια Πρώτη Ματιά]](/test-evaluate/preliminary/)
